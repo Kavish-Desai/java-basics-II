@@ -24,3 +24,4 @@ public class Person {
     public byte getAge() {
         return age;
     }
+}
